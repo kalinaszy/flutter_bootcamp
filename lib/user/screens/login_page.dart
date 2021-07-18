@@ -16,8 +16,6 @@ class LoginPage extends StatelessWidget {
       return Text(
         'Recipes',
         style: TextStyle(
-          //background: Colors.deepOrange ) ,
-          //fontFamily: 'Schyler',
           fontSize: 50,
           color: const Color(0xFF807A6B),
           backgroundColor: Colors.amber,
@@ -37,7 +35,6 @@ class LoginPage extends StatelessWidget {
             mainAxisAlignment: MainAxisAlignment.center,
             children: <Widget>[
               buildText(),
-              // Space between "Recipes" and the button:
               SizedBox(height: 50.0),
               MaterialButton(
                 color: Colors.white,
