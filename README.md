@@ -5,7 +5,7 @@ A new Flutter project. The app should allow user to login and display a recipe o
 TO DO:
 Authentication, Fetching data from TheMealDB API (https://www.themealdb.com/api.php?ref=apilist.fun) - currently doesn't display proper data.
 
-!(github-small)(https://github.com/kalinaszy/flutter_bootcamp/issues/1#issue-947145171)
+![github-small](https://github.com/kalinaszy/flutter_bootcamp/issues/1#issue-947145171)
 
 
 
