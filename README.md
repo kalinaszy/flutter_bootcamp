@@ -1,9 +1,11 @@
 # flutter_application_1
 
-A new Flutter project. The app should allow a user to login and display a recipe of the day. In the future also to save favourite recipes.
+A new Flutter project. The app should allow a user to login and display a recipe of the day
+It's fetching data from TheMealDB API (https://www.themealdb.com/api.php?ref=apilist.fun
+In the future also to save favourite recipes.
 
 TO DO:
-Authentication with Google, Fetching data from TheMealDB API (https://www.themealdb.com/api.php?ref=apilist.fun)
+Authentication with Google
 
 ![alt-text](https://user-images.githubusercontent.com/46633019/126086338-24cd012d-fbbb-4366-befd-91a873b311c3.PNG)
 
