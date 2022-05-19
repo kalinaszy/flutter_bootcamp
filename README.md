@@ -7,10 +7,6 @@ In the future also to save favourite recipes.
 TO DO:
 Authentication with Google
 
-![alt-text](https://user-images.githubusercontent.com/46633019/126086338-24cd012d-fbbb-4366-befd-91a873b311c3.PNG)
-
-
-
 
 
 ## Getting Started
